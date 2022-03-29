@@ -1,1 +1,1 @@
----layout: slidetitle: "Welcome to our second slide!"---c.Use the left arrow to go back!
+---layout: slidetitle: "Welcome to our second slide!"---Use the left arrow to go forward!Use the left arrow to go back!
